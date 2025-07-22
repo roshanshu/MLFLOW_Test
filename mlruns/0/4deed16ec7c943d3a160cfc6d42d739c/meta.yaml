@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4deed16ec7c943d3a160cfc6d42d739c/artifacts
+end_time: 1753186957573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4deed16ec7c943d3a160cfc6d42d739c
+run_name: overjoyed-calf-298
+run_uuid: 4deed16ec7c943d3a160cfc6d42d739c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753186957165
+status: 4
+tags: []
+user_id: Office

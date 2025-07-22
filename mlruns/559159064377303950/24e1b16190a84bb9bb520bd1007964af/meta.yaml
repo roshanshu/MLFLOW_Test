@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559159064377303950/24e1b16190a84bb9bb520bd1007964af/artifacts
+end_time: 1753187210227
+entry_point_name: ''
+experiment_id: '559159064377303950'
+lifecycle_stage: active
+run_id: 24e1b16190a84bb9bb520bd1007964af
+run_name: incongruous-yak-358
+run_uuid: 24e1b16190a84bb9bb520bd1007964af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753187209868
+status: 3
+tags: []
+user_id: Office

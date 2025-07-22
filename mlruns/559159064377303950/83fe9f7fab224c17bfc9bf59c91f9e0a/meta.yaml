@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559159064377303950/83fe9f7fab224c17bfc9bf59c91f9e0a/artifacts
+end_time: 1753187184894
+entry_point_name: ''
+experiment_id: '559159064377303950'
+lifecycle_stage: active
+run_id: 83fe9f7fab224c17bfc9bf59c91f9e0a
+run_name: luxuriant-midge-791
+run_uuid: 83fe9f7fab224c17bfc9bf59c91f9e0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753187184360
+status: 3
+tags: []
+user_id: Office

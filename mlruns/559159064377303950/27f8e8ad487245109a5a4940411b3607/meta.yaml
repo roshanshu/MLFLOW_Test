@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559159064377303950/27f8e8ad487245109a5a4940411b3607/artifacts
+end_time: 1753187130030
+entry_point_name: ''
+experiment_id: '559159064377303950'
+lifecycle_stage: active
+run_id: 27f8e8ad487245109a5a4940411b3607
+run_name: worried-koi-355
+run_uuid: 27f8e8ad487245109a5a4940411b3607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753187129495
+status: 3
+tags: []
+user_id: Office
