@@ -6,9 +6,10 @@ import mlflow
 import mlflow.sklearn
 import matplotlib.pyplot as plt
 import seaborn as sns
+import dagshub
 
-# Set tracking URI
-mlflow.set_tracking_uri("http://localhost:5000")
+dagshub.init(repo_owner='roshanshu', repo_name='MLFLOW_Test', mlflow=True)
+mlflow.set_tracking_uri("https://dagshub.com/roshanshu/MLFLOW_Test.mlflow/")
 
 # Load classification dataset
 data = load_breast_cancer()
@@ -20,15 +21,15 @@ random_state = 42
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=random_state)
 
 # Try adjusting these to see accuracy variation
-max_depth = 5
-n_estimators = 20
+max_depth = 10
+n_estimators = 100
 
-mlflow.set_experiment("Breast_Cancer_RF_Experiment 2")
+mlflow.set_experiment("FDP_NITP_1")
 with mlflow.start_run():
     # Train classifier
     clf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=random_state)
     clf.fit(X_train, y_train)
-
+    
     # Predict and evaluate
     y_pred = clf.predict(X_test)
     accuracy = accuracy_score(y_test, y_pred)
@@ -51,4 +52,4 @@ with mlflow.start_run():
     mlflow.log_artifact("Confusion_Matrix.png")
     mlflow.sklearn.log_model(clf, "RF_Model")
 
-print(f"Accuracy: {accuracy:.4f}")
+    print(f"Accuracy: {accuracy:.4f}")
