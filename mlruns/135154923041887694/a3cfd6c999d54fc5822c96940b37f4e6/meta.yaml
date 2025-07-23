@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/handson/MLFLOW_Test/mlruns/135154923041887694/a3cfd6c999d54fc5822c96940b37f4e6/artifacts
+end_time: 1753248321033
+entry_point_name: ''
+experiment_id: '135154923041887694'
+lifecycle_stage: active
+run_id: a3cfd6c999d54fc5822c96940b37f4e6
+run_name: fortunate-pug-545
+run_uuid: a3cfd6c999d54fc5822c96940b37f4e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248320860
+status: 3
+tags: []
+user_id: Office

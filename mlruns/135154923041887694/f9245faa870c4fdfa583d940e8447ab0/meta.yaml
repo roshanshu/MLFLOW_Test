@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/handson/MLFLOW_Test/mlruns/135154923041887694/f9245faa870c4fdfa583d940e8447ab0/artifacts
+end_time: 1753188667717
+entry_point_name: ''
+experiment_id: '135154923041887694'
+lifecycle_stage: active
+run_id: f9245faa870c4fdfa583d940e8447ab0
+run_name: victorious-mule-109
+run_uuid: f9245faa870c4fdfa583d940e8447ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753188642880
+status: 3
+tags: []
+user_id: Office

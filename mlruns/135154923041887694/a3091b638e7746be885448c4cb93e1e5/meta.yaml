@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/handson/MLFLOW_Test/mlruns/135154923041887694/a3091b638e7746be885448c4cb93e1e5/artifacts
+end_time: 1753248321189
+entry_point_name: ''
+experiment_id: '135154923041887694'
+lifecycle_stage: active
+run_id: a3091b638e7746be885448c4cb93e1e5
+run_name: chill-auk-789
+run_uuid: a3091b638e7746be885448c4cb93e1e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248321052
+status: 3
+tags: []
+user_id: Office

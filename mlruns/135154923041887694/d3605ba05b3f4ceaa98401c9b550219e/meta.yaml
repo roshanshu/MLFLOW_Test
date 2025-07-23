@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/handson/MLFLOW_Test/mlruns/135154923041887694/d3605ba05b3f4ceaa98401c9b550219e/artifacts
+end_time: 1753248320001
+entry_point_name: ''
+experiment_id: '135154923041887694'
+lifecycle_stage: active
+run_id: d3605ba05b3f4ceaa98401c9b550219e
+run_name: bouncy-bug-241
+run_uuid: d3605ba05b3f4ceaa98401c9b550219e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248319892
+status: 3
+tags: []
+user_id: Office

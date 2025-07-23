@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/handson/MLFLOW_Test/mlruns/135154923041887694/6e4e9421028444dc987ef0ad696ceac7/artifacts
+end_time: 1753248320381
+entry_point_name: ''
+experiment_id: '135154923041887694'
+lifecycle_stage: active
+run_id: 6e4e9421028444dc987ef0ad696ceac7
+run_name: delightful-perch-26
+run_uuid: 6e4e9421028444dc987ef0ad696ceac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248320246
+status: 3
+tags: []
+user_id: Office

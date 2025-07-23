@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/handson/MLFLOW_Test/mlruns/135154923041887694/086117e97cf24eb3b966f115e50ae5c9/artifacts
+end_time: 1753248320231
+entry_point_name: ''
+experiment_id: '135154923041887694'
+lifecycle_stage: active
+run_id: 086117e97cf24eb3b966f115e50ae5c9
+run_name: wise-mink-391
+run_uuid: 086117e97cf24eb3b966f115e50ae5c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248320128
+status: 3
+tags: []
+user_id: Office

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/handson/MLFLOW_Test/mlruns/135154923041887694/daeb43f8350643be8222f33626868c7e/artifacts
+end_time: 1753248321424
+entry_point_name: ''
+experiment_id: '135154923041887694'
+lifecycle_stage: active
+run_id: daeb43f8350643be8222f33626868c7e
+run_name: amazing-donkey-19
+run_uuid: daeb43f8350643be8222f33626868c7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248321205
+status: 3
+tags: []
+user_id: Office

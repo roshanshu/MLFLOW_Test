@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/handson/MLFLOW_Test/mlruns/135154923041887694/7fcb688ef5e24a7288cddbd33f64b96d/artifacts
+end_time: 1753248320841
+entry_point_name: ''
+experiment_id: '135154923041887694'
+lifecycle_stage: active
+run_id: 7fcb688ef5e24a7288cddbd33f64b96d
+run_name: spiffy-cow-271
+run_uuid: 7fcb688ef5e24a7288cddbd33f64b96d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248320681
+status: 3
+tags: []
+user_id: Office
